@@ -16,7 +16,7 @@
 - matplotlib;
 - seaborn;
 - scipy;
-- concurrent.futures;
+- concurrent.futures.
 
 В идеале, для решения проблем скорости и памяти, я бы использовал другие инструменты.
 
